@@ -1,4 +1,4 @@
-# mobile-programming-semester-project
+# Mobile Programming Semester Project
 Mobil programlama dersinin dönem projesi olarak gerçekleştirdiğimiz etkinlik hatırlatma uygulaması.
 # İstenilen ve Yapmadıklarım:
 * Light-Dark Theme ayarı.
