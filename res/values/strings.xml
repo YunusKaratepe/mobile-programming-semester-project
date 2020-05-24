@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Calendar</string>
+    <string name="name">Name:</string>
+    <string name="ending">Ending:</string>
+    <string name="starting">Starting:</string>
+
+    <string-array name="recallType">
+        <item>Every Day</item>
+        <item>Every Week</item>
+        <item>Every Month</item>
+        <item>Every Year</item>
+    </string-array>
+</resources>
